@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\bin\Debug\7_8_WritingAdditionalTests.exe.config
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\bin\Debug\7_8_WritingAdditionalTests.exe
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\bin\Debug\7_8_WritingAdditionalTests.pdb
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\obj\Debug\7_8_WritingAdditionalTests.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\obj\Debug\7_8_WritingAdditionalTests.exe
+C:\Users\TNykuka\source\repos\7_8_WritingAdditionalTests\7_8_WritingAdditionalTests\obj\Debug\7_8_WritingAdditionalTests.pdb
